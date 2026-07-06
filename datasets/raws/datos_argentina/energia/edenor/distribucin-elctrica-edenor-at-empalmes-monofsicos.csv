@@ -1,0 +1,3 @@
+﻿id,descripcion,tipo,clasificacion,tipo_red,jurisdiccion,geojson,geom
+27076095,Empalme Normal Cable XLPE,AEXR,S,AT Geografico,,"{""type"":""Point"",""coordinates"":[-58.8689489984223,-34.6103906685716]}",0101000020E6100000CB0E85B8396F4DC038A60B48214E41C0
+30029990,Empalme Normal Cable XLPE,AEXR,S,AT Geografico,SAN FERNANDO   ,"{""type"":""Point"",""coordinates"":[-58.5862558945446,-34.4628340652584]}",0101000020E6100000FD13E36E0A4B4DC03AE18A253E3B41C0
